@@ -1,0 +1,8 @@
+name: courses
+channels:
+  - defaults
+dependencies:
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - numpy
+  - rise
