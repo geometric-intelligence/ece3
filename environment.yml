@@ -1,0 +1,9 @@
+name: courses
+channels:
+  - defaults
+dependencies:
+  - rise
+  - jupyter_nbextensions_configurator
+  - numpy
+  - jupyter_contrib_nbextensions
+prefix: /Users/ninamiolane/opt/anaconda3/envs/courses
