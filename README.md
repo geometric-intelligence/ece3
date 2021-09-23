@@ -8,7 +8,7 @@ ECE-3: Introduction to Electrical and Computer Engineering at UC Santa Barbara, 
 
 Instructor: Nina Miolane.
 
-TAs: Biswal, Monsij. Paraskevas, Orestis. Quevedo, Alejandro. Yue, Bella.
+TAs: Monsij Biswal, Orestis Paraskevas, Alejandro Quevedo, Bella Yue.
 
 You can access and run the lecture slides and lab notebooks by clicking on the Binder link below.
 
