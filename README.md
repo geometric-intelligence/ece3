@@ -6,7 +6,7 @@ This is the GitHub repository for the course:
 
 ECE-3: Introduction to Electrical and Computer Engineering at UC Santa Barbara, Fall 2021.
 
-Instructor: Nina Miolane.
+Instructor: [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane), BioShape Lab, UC Santa Barbara.
 
 TAs: Monsij Biswal, Orestis Paraskevas, Alejandro Quevedo, Bella Yue.
 
