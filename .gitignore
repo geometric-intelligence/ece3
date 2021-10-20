@@ -2,3 +2,5 @@
 */__pycache__/
 reveal.js/
 */.ipynb_checkpoints/
+*.xml
+*.iml
