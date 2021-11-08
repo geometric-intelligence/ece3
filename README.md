@@ -15,5 +15,5 @@ You can access and run the lecture slides and lab notebooks by clicking on the B
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bioshape-lab/ece3/main?filepath=lectures)
 
 The content of this class relies on the following textbooks:
-- [Introduction to Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf), by Stephen Boyd and Lieven Vandenberghe
+- [Introduction to Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf), by Stephen Boyd and Lieven Vandenberghe
 - [Introduction to matrix computations](https://stanford.app.box.com/s/12f2f622y831bp6jb5zs/file/21165143711), by Margot Gerritsen
