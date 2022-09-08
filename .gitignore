@@ -4,3 +4,5 @@ reveal.js/
 */.ipynb_checkpoints/
 *.xml
 *.iml
+
+private/
