@@ -1,6 +1,6 @@
 name: courses
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
