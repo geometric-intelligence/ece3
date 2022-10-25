@@ -4,5 +4,7 @@ reveal.js/
 */.ipynb_checkpoints/
 *.xml
 *.iml
+lectures/figs/form_labs.png
+lectures/figs/form_labs2.png
 
 private/
