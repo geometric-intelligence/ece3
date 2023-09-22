@@ -1,17 +1,16 @@
-# UCSB ECE3 Introduction to Electrical and Computer Engineering
+# UCSB ECE-3: Python Programming for Science & Engineering
 
 Welcome!
 
 This is the GitHub repository for the course:
 
-ECE-3: Introduction to Electrical and Computer Engineering at UC Santa Barbara.
+ECE-3: Python Programming for Science & Engineering at UC Santa Barbara.
 
 ### Teaching team
 
-- [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane), [BioShape Lab](https://bioshape.ece.ucsb.edu/), UC Santa Barbara.
-- [Haewon Jeong](https://www.ece.ucsb.edu/people/faculty/haewon-jeong), UC Santa Barbara.
+- [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane), [BioShape Lab](https://gi.ece.ucsb.edu/), UC Santa Barbara.
 
-TAs (Fall 2022): Monsij Biswal, Zheng Ke, Zihu Wang, Aditya Jonnalagadda, Yashaswi Venkat Nerella.
+TAs (Fall 2023): Aaditya Prakash Kattekola, Arghavan Zibaie, Zihu Wang, Jesse Lee,  Karthik Somayaji Nanjangud Suryanarayana, Yuxuan Yin.
 
 ### Interact with the course contents
 
@@ -21,8 +20,9 @@ You can access and run the lecture slides and lab notebooks by clicking on the B
 
 ### Textbooks
 
-The content of this class relies on the following excellent textbook:
+The content of this class relies on the following excellent textbooks:
 - [Introduction to Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf), by Stephen Boyd and Lieven Vandenberghe.
+- [Think Python, 2nd edition](http://greenteapress.com/wp/think-python-2e/), by Allen B. Downey 
 
 ### Syllabus
 
