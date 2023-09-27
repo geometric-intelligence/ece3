@@ -1,4 +1,4 @@
-# UCSB ECE-3: Python Programming for Science & Engineering
+# ECE-3: Python Programming for Science & Engineering
 
 Welcome!
 
