@@ -8,7 +8,7 @@ ECE-3: Python Programming for Science & Engineering at UC Santa Barbara.
 
 ### Teaching team
 
-- [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane), [BioShape Lab](https://gi.ece.ucsb.edu/), UC Santa Barbara.
+- [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane), [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/), UC Santa Barbara.
 
 TAs (Fall 2023): Aaditya Prakash Kattekola, Arghavan Zibaie, Zihu Wang, Jesse Lee,  Karthik Somayaji Nanjangud Suryanarayana, Yuxuan Yin.
 
