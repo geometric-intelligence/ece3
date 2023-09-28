@@ -34,9 +34,10 @@ You can access and run the lecture slides and lab notebooks by clicking on the B
 ### Textbooks
 
 The content of this class relies on the following excellent textbooks:
-Unit 01: [Think Python](https://greenteapress.com/wp/think-python-2e/) by Downey.
-Unit 02-03: [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf), by Boyd & Vandenberghe.
-Unit 04: [Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie, Tibshirani, Taylor.
+- Unit 01: [Think Python](https://greenteapress.com/wp/think-python-2e/) by Downey.
+- Unit 02-03: [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf), by Boyd & Vandenberghe.
+- Unit 04: [Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie, Tibshirani, Taylor.
+
 The textbooks are freely available online. 
 
 ### Syllabus
