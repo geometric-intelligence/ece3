@@ -8,11 +8,14 @@ ECE-3: Python Programming for Science & Engineering.
 
 ### Teaching team
 
-- Nina Miolane: Principal Instructor
-- Daniel Kunin: Co-Instructor
-- David Klindt: Co-Instructor
+From the [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/):
 
-TAs (Fall 2023): Aaditya Prakash Kattekola, Arghavan Zibaie, Zihu Wang, Jesse Lee,  Karthik Somayaji Nanjangud Suryanarayana, Yuxuan Yin.
+- [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane): Principal Instructor
+- [Daniel Kunin](https://daniel-kunin.com/): Co-Instructor
+- [David Klindt](https://david-klindt.github.io/): Co-Instructor
+- [Bongjin Koo](https://bongjinkoo.github.io/): Co-Instructor
+
+TAs (Fall 2023): Aaditya Prakash Kattekola, Arghavan Zibaie, Zihu Wang, Jesse Lee, Karthik Somayaji Nanjangud Suryanarayana, Yuxuan Yin.
 
 ### Interact with the course contents
 
@@ -20,11 +23,21 @@ You can access and run the lecture slides and lab notebooks by clicking on the B
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bioshape-lab/ece3/main?filepath=lectures)
 
+### Outline
+
+- Unit 01: Welcome to Python
+- Unit 02: Computing with Data in Python
+- Unit 03: Summarizing Data in Python
+- Unit 04: Predicting from Data with Machine Learning in Python
+
+
 ### Textbooks
 
 The content of this class relies on the following excellent textbooks:
-- [Introduction to Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf), by Stephen Boyd and Lieven Vandenberghe.
-- [Think Python, 2nd edition](http://greenteapress.com/wp/think-python-2e/), by Allen B. Downey 
+Unit 01: [Think Python](https://greenteapress.com/wp/think-python-2e/) by Downey.
+Unit 02-03: [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf), by Boyd & Vandenberghe.
+Unit 04: [Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie, Tibshirani, Taylor.
+The textbooks are freely available online. 
 
 ### Syllabus
 
