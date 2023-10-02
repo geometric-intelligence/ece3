@@ -6,7 +6,7 @@ This is the GitHub repository for the course:
 
 ECE-3: Python Programming for Science & Engineering.
 
-![alt text](https://github.com/bioshape-lab/ece3/blob/main/lectures/figs/00_signal_processing.jpeg?raw=true)
+![alt text](https://github.com/geometric-intelligence/ece3/blob/main/lectures/figs/00_signal_processing.jpeg?raw=true)
 
 ### Teaching team
 
