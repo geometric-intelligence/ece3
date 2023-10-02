@@ -23,7 +23,7 @@ TAs (Fall 2023): Aaditya Prakash Kattekola, Arghavan Zibaie, Zihu Wang, Jesse Le
 
 You can access and run the lecture slides and lab notebooks by clicking on the Binder link below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bioshape-lab/ece3/main?filepath=lectures)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geometric-intelligence/ece3/main?filepath=lectures)
 
 ### Outline
 
@@ -44,6 +44,6 @@ The textbooks are freely available online.
 
 ### Syllabus
 
-More details are on the [syllabus](https://github.com/bioshape-lab/ece3/blob/main/ece3_syllabus.pdf).
+More details are on the [syllabus](https://github.com/geometric-intelligence/ece3/blob/main/ece3_syllabus.pdf).
 
 Best wishes for the new quarter! ☺
