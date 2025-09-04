@@ -46,4 +46,17 @@ The textbooks are freely available online.
 
 More details are on the [syllabus](https://github.com/geometric-intelligence/ece3/blob/main/ece3_syllabus.pdf).
 
+### Run the jupyter notebook slides
+
+In your terminal:
+
+```
+conda env create -f environment.yml
+python -m ipykernel install --user --name=ece3 --display-name "Python (ece3)"
+jupyter notebook
+```
+
+Then open the slides of interest, and click `Enter/Exit Rise Slideshow` Icon.
+
+
 Best wishes for the new quarter! ☺

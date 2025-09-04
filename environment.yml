@@ -1,8 +1,29 @@
-name: courses
+name: ece3
 channels:
   - conda-forge
 dependencies:
+  - python=3.12
+  # Core Python packages
+  - ipykernel
+  - ipython
+  # Jupyter packages
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
+  # Scientific computing
   - numpy
+  - scipy
+  # Data analysis
+  - pandas
+  - statsmodels
+  # Machine learning
+  - scikit-learn
+  - pytorch
+  - torchvision
+  # Visualization
+  - matplotlib
+  - seaborn
+  # Presentation
   - rise
+  - tabulate
+  # Specialized libraries
+  - geomstats
