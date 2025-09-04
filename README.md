@@ -29,9 +29,8 @@ You can access and run the lecture slides and lab notebooks by clicking on the B
 
 - Unit 01: Welcome to Python
 - Unit 02: Computing with Data in Python
-- Unit 03: Summarizing Data in Python
+- Unit 03: Summarizing and Visualizing Data in Python
 - Unit 04: Predicting from Data with Machine Learning in Python
-
 
 ### Textbooks
 
