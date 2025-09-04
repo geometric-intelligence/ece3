@@ -29,9 +29,8 @@ You can access and run the lecture slides and lab notebooks by clicking on the B
 
 - Unit 01: Welcome to Python
 - Unit 02: Computing with Data in Python
-- Unit 03: Summarizing Data in Python
+- Unit 03: Summarizing and Visualizing Data in Python
 - Unit 04: Predicting from Data with Machine Learning in Python
-
 
 ### Textbooks
 
@@ -45,5 +44,18 @@ The textbooks are freely available online.
 ### Syllabus
 
 More details are on the [syllabus](https://github.com/geometric-intelligence/ece3/blob/main/ece3_syllabus.pdf).
+
+### Run the jupyter notebook slides
+
+In your terminal:
+
+```
+conda env create -f environment.yml
+python -m ipykernel install --user --name=ece3 --display-name "Python (ece3)"
+jupyter notebook
+```
+
+Then open the slides of interest, and click `Enter/Exit Rise Slideshow` Icon.
+
 
 Best wishes for the new quarter! ☺
