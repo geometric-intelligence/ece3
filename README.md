@@ -13,11 +13,11 @@ ECE-3: Python Programming for Science & Engineering.
 From the [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/):
 
 - [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane): Principal Instructor
-- [Daniel Kunin](https://daniel-kunin.com/): Co-Instructor
-- [David Klindt](https://david-klindt.github.io/): Co-Instructor
-- [Bongjin Koo](https://bongjinkoo.github.io/): Co-Instructor
+- [Adele Myers](https://ahma2017.wixsite.com/adelemyers): Co-Instructor
+- [Francisco Acosta](https://sites.google.com/view/facosta/): Co-Instructor
+- [Louisa Cornelis](https://sites.google.com/view/louisacornelis/home): Co-Instructor
 
-TAs (Fall 2023): Aaditya Prakash Kattekola, Arghavan Zibaie, Zihu Wang, Jesse Lee, Karthik Somayaji Nanjangud Suryanarayana, Yuxuan Yin.
+TAs (Fall 2025): Priyanka Nagasamudra, Bariscan Kurtkaya, Mazdak	Mohseni-Rajaee
 
 ### Interact with the course contents
 
