@@ -8,17 +8,6 @@ ECE-3: Python Programming for Science & Engineering.
 
 ![alt text](https://github.com/geometric-intelligence/ece3/blob/main/lectures/figs/00_signal_processing.jpeg?raw=true)
 
-### Teaching team
-
-From the [Geometric Intelligence Lab](https://gi.ece.ucsb.edu/):
-
-- [Nina Miolane](https://www.ece.ucsb.edu/people/faculty/nina-miolane): Principal Instructor
-- [Adele Myers](https://ahma2017.wixsite.com/adelemyers): Co-Instructor
-- [Francisco Acosta](https://sites.google.com/view/facosta/): Co-Instructor
-- [Louisa Cornelis](https://sites.google.com/view/louisacornelis/home): Co-Instructor
-
-TAs (Fall 2025): Priyanka Nagasamudra, Bariscan Kurtkaya, Mazdak	Mohseni-Rajaee
-
 ### Interact with the course contents
 
 You can access and run the lecture slides and lab notebooks by clicking on the Binder link below.
