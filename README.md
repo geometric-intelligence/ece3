@@ -30,10 +30,6 @@ The content of this class relies on the following excellent textbooks:
 
 The textbooks are freely available online. 
 
-### Syllabus
-
-More details are on the [syllabus](https://github.com/geometric-intelligence/ece3/blob/main/ece3_syllabus.pdf).
-
 ### Run the jupyter notebook slides
 
 In your terminal:
